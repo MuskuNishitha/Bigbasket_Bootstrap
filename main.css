@@ -1,0 +1,154 @@
+#main{
+    border: 5px solid;
+    height: 50px;
+}
+#section{
+    border: 2px solid blue;
+    height: inherit;
+    width: 70%;
+    margin: auto;
+}
+#innerdiv{
+    top:20px;
+    position: relative;
+}
+#img{
+    border-radius: 20px;
+    box-shadow: 0px 0px 2px black;
+}
+#container1{
+    top:80px;
+    position: relative;
+    margin-right: 60px;
+    padding-left: 30px;
+
+}
+#container1>button{
+    width:150px;
+    height:50px;
+    font-size: 15px;
+}
+#src{
+    /* padding-right: 10px;
+    margin-top: -10px;
+    margin-right:160px; */
+
+}
+#egg{
+    background-color:rgb(231, 217, 217);
+    border:1px solid rgb(233, 225, 225);
+    border-radius: 5px;
+    color:rgb(3, 2, 2);
+  font-weight: bold;
+}
+#eggggg{
+    color:black;
+    background-color: green;
+    border:1px solid green;
+    font-weight:bold;
+}
+#bank{
+    top:100px;
+    position: relative;
+    padding-left: 20px;
+}
+#id{
+    top:130px;
+    position: relative;
+    height:300px;
+
+}
+#diving{
+    height:inherit;
+    display: flex;
+    gap: 40px;
+    padding-left: 20px;
+}
+.mani{
+    border-radius: 10px;
+    
+}
+#Thirdpass{
+    top:100px;
+    position: relative;
+    gap:30px;
+    display: flex;
+    
+}
+
+#srcc{
+    top:220px;
+    position: relative;
+    padding-left: 90px;
+    
+}
+#divscontent{
+    display: flex;
+    gap: 60px;
+}
+#divscontent img{
+    border-radius: 10px;
+}
+#srccccc{
+    top:270px;
+    position: relative;
+    padding-left: 90px;
+     
+}
+#heyyy{
+    border-radius: 10px;
+}
+#daily{
+    top:300px;
+    position: relative;
+    padding-left: 90px;
+}
+#hello{
+    display: flex;
+    gap: 20px;  
+}
+#berrages{
+    top:340px;
+    position: relative;
+    padding-left: 90px;
+}
+#imgsrc{
+    display: flex;
+    gap: 20px;  
+}
+#Snacks{
+    top:380px;
+    position: relative;
+    padding-left: 90px; 
+}
+#storeeight{
+    display: flex;
+    gap: 60px;
+}
+#cleaningggg{
+    top:420px;
+    position: relative;
+    padding-left: 90px; 
+}
+#house{
+    display: flex;
+    gap: 60px;
+}
+#card{
+    top:450px;
+    position:relative;
+    padding-left:90px;
+}
+#subdiv2{
+    display:flex;
+    gap:15px;
+}
+#hygine{
+    top:50px;
+    position:relative;
+    padding-left:5px;
+}
+#subdiv3{
+ display:flex;
+ gap:15px;
+}

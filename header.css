@@ -1,0 +1,57 @@
+#container{
+    width:1370px;
+    top:0px;
+    position: absolute;
+
+}
+#mainconatiner{
+    display: flex;
+    top:50px;
+    position:absolute;
+    height:50px;
+    justify-content: center;
+    justify-content:space-between !important;
+    margin-left: 70px ;
+}
+.btn-close{
+    box-shadow:0px 0px 10px green !important;
+}
+#selet{
+    width:300px;
+    height:50px;
+    color:black;
+    background-color: rgb(209, 200, 200);
+    border:rgb(240, 231, 231);
+
+}
+#login{
+    width:300px;
+    height:50px;
+    color:white;
+    background-color:black;
+    border:black;
+    margin-left: 20px;
+}
+#maincontainer2{
+    top:100px;
+    position: relative;
+    margin-left: 80px;
+    width:1250px;
+ 
+}
+#color{
+    width:200px;
+    height:50px;
+    color:white;
+    background-color:green;
+    border:green;
+    margin-left: 20px;
+}
+#large{
+    width:80px;
+    height:40px;
+    color:black;
+    background-color: rgb(209, 200, 200);
+    border:rgb(240, 231, 231);   
+    border-radius:45px !important;
+}
